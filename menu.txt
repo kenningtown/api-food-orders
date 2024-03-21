@@ -1,0 +1,7 @@
+shashlyk: 700
+ramen: 540
+pizza: 2000
+sushi: 1400
+cola: 400
+juice: 350
+water: 200
